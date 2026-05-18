@@ -1,6 +1,6 @@
-# Personal Finances
+# Template Web
 
-PWA mobile-first para el control de finanzas personales.
+Template web mobile-first con configuración y librerías preinstaladas.
 
 ## Stack
 

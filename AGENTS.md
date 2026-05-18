@@ -8,7 +8,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 # Architecture
 
-Personal finance PWA (mobile-first). Backend and frontend live in the same Next.js project.
+Web template (mobile-first). Backend and frontend live in the same Next.js project.
 
 ## Layer structure
 
